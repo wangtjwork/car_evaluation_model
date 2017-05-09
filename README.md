@@ -1,4 +1,4 @@
-This project is using python 2.7.13, numpy 1.11.3, pandas 0.19.2, and scikit-learn 0.18.1.
+This project is using python 2.7.13, numpy 1.11.3, pandas 0.19.2, scikit-learn 0.18.1, and XGBoost 0.6.
 
 The first piece of code, Preprocessing focused on the preprocessing of data, namely the reality check and the value centerization.
 
